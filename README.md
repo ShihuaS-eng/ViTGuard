@@ -1,4 +1,4 @@
-# ViTGuard (under Artifact Evaluation from ACSAC 2024)
+# ViTGuard
 Code for the paper, "ViTGuard: Attention-aware Detection against Adversarial Examples for Vision Transformer".
 
 We provide the code for detecting four representative adversarial attacks: PGD (gradient-based), CW (optimization-based), Patch-Fool (attention-aware), and SGM (transfer-based). 
